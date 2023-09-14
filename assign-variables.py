@@ -26,7 +26,7 @@ p,*q="hello"
 print(p)
 print(q)
 
-#6.multiplte target assignment
+#6.multiple target assignment
 
 a=b=c=100
 print(a)
@@ -35,6 +35,14 @@ print(c)
 
 #Augmented assignment (updating the value)
 
-a=10
+""" a=10
 a+=5
+print(a) """
+
+""" a=20
+a-=22
+print(a) """
+
+a=5
+a*=2
 print(a)
